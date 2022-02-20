@@ -1,6 +1,8 @@
 # Data
 
-This teach you how to use Tableau for Data Visualization 
-This data file contains the .xls files that I used in my videos - Dataqueen
+
+This data file contains the .xls files that I used in my video custom map in Tableau 
+
+Dataqueen Youtube link below 
 
 https://www.youtube.com/watch?v=F7L5i-xjSKQ&ab_channel=DataQueen
