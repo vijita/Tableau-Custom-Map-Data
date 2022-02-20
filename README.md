@@ -1,7 +1,7 @@
 # Data
 
 
-This data file contains the .xls files that I used in my video custom map in Tableau 
+This data file contains the .xls file that I used in my video custom map in Tableau 
 
 Dataqueen Youtube link below 
 
